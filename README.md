@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **FPT University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/phonengokngek](https://github.com/phonengokngek)
+- 👨‍💻 All of my projects are available at [https://github.com/phoneee689](https://github.com/phonengokngek)
 
 - 📫 How to reach me **dinhthephong03689@gmail.com**
 
